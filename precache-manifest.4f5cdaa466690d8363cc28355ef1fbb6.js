@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7099a41ecc40ee2b2c259a0e151cb2e6",
+    "revision": "b0e4197314af56fb9e989060669725c0",
     "url": "/robotfriend-webapplication-exercise/index.html"
   },
   {
-    "revision": "165c83f85a4584eb65d7",
+    "revision": "f128f86ad4cb4669d483",
     "url": "/robotfriend-webapplication-exercise/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "b0307c07560bcabbed22",
+    "revision": "1a708da54b3e84c107c8",
     "url": "/robotfriend-webapplication-exercise/static/css/main.a0809b31.chunk.css"
   },
   {
-    "revision": "165c83f85a4584eb65d7",
-    "url": "/robotfriend-webapplication-exercise/static/js/2.590933e2.chunk.js"
+    "revision": "f128f86ad4cb4669d483",
+    "url": "/robotfriend-webapplication-exercise/static/js/2.bb69bd8a.chunk.js"
   },
   {
-    "revision": "b0307c07560bcabbed22",
-    "url": "/robotfriend-webapplication-exercise/static/js/main.ae109cb9.chunk.js"
+    "revision": "1a708da54b3e84c107c8",
+    "url": "/robotfriend-webapplication-exercise/static/js/main.e1d9df25.chunk.js"
   },
   {
     "revision": "514dd9cfe87ee7263858",
